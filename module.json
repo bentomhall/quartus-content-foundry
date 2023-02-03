@@ -101,6 +101,6 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/bentomhall/quertus-content-foundry/main/module.json",
+    "manifest": "https://github.com/bentomhall/quartus-content-foundry/blob/master/module.json",
     "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v0.1.zip"
   }
