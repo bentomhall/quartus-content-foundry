@@ -1,0 +1,106 @@
+{
+    "id": "quertus-content",
+    "name": "quertus-content",
+    "title": "Content for Dawn of Hope",
+    "description": "A collection of my content.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Admiral Benbo",
+            "discord": "lightphyre1791",
+            "url": "https://wiki.admiralbenbo.org/"
+        }
+    ],
+    "minimumCoreVersion": "10.00",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "quertus-creatures",
+            "label": "quertus Creatures",
+            "path": "./packs/creatures.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "quertus-items",
+            "label": "quertus Items",
+            "path": "./packs/items.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "quertus-class-features",
+            "label": "Quertus Class Features",
+            "path": "./packs/class-features.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "quertus-race-features",
+            "label": "Quertus Race Features",
+            "path": "./packs/race-features.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "quertus-spells",
+            "label": "Quertus Spells",
+            "path": "./packs/spells.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "quertus-scenes",
+            "label": "quertus Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "quertus-journal-entries",
+            "label": "quertus Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "quertus-macros",
+            "label": "quertus Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro",
+            "type": "Macro"
+        },
+        {
+            "name": "quertus-roll-tables",
+            "label": "quertus Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        },
+        {
+            "name": "quertus-playlists",
+            "label": "quertus Playlists",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist",
+            "type": "Playlist"
+        },
+        {
+            "name": "quertus-adventures",
+            "label": "quertus Adventures",
+            "path": "./packs/adventures.db",
+            "entity": "Adventure",
+            "type": "Adventure"
+        }
+    ],
+    "manifest": "https://github.com/bentomhall/homebrew-compendium/blob/main/module.json",
+    "download": "https://github.com/bentomhall/homebrew-compendium/blob)/main/my-content-module.zip"
+  }
