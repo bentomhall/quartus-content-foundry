@@ -3,7 +3,7 @@
     "name": "quertus-content",
     "title": "Content for Dawn of Hope",
     "description": "A collection of my content.",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Admiral Benbo",
@@ -101,6 +101,6 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://github.com/bentomhall/homebrew-compendium/blob/main/module.json",
-    "download": "https://github.com/bentomhall/homebrew-compendium/blob)/main/my-content-module.zip"
+    "manifest": "https://raw.githubusercontent.com/bentomhall/quertus-content-foundry/main/module.json",
+    "download": "https://github.com/bentomhall/quertus-content-foundry/module.zip"
   }
