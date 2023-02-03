@@ -102,5 +102,5 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/bentomhall/quertus-content-foundry/main/module.json",
-    "download": "https://github.com/bentomhall/quertus-content-foundry/module.zip"
+    "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v0.1.zip"
   }
