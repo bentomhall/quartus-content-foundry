@@ -102,6 +102,6 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/bentomhall/quartus-content-foundry/master/module.json",
-    "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v0.1.1zip",
+    "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v0.1.1.zip",
     "url": "https://github.com/bentomhall/quartus-content-foundry/"
   }
