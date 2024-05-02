@@ -16,7 +16,7 @@
         "verified": "11"
     },
     "relationships": {
-        "system": "dnd5e"
+        "systems": ["dnd5e"]
     },
     "packs": [
         {
