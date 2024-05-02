@@ -16,10 +16,10 @@
         "verified": "11"
     },
     "relationships": {
-        "systems": {
+        "systems": [{
             "id": "dnd5e",
             "type": "system"
-        }
+        }]
     },
     "packs": [
         {
