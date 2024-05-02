@@ -15,12 +15,6 @@
         "minimum": "10",
         "verified": "11"
     },
-    "relationships": {
-        "systems": [{
-            "id": "dnd5e",
-            "type": "system"
-        }]
-    },
     "packs": [
         {
             "name": "quertus-creatures",
