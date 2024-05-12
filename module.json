@@ -1,9 +1,9 @@
 {
     "id": "quertus-content",
-    "name": "quertus-content",
+    "name": "quartus-content",
     "title": "Content for Dawn of Hope",
     "description": "A collection of my content.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "authors": [
         {
             "name": "Admiral Benbo",
@@ -20,69 +20,69 @@
     },
     "packs": [
         {
-            "name": "quertus-creatures",
-            "label": "quertus Creatures",
+            "name": "quartus-creatures",
+            "label": "quartus Creatures",
             "path": "./packs/creatures.db",
             "entity": "Actor",
             "type": "Actor",
             "system": "dnd5e"
         },
         {
-            "name": "quertus-items",
-            "label": "quertus Items",
+            "name": "quartus-items",
+            "label": "quartus Items",
             "path": "./packs/items.db",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
         },
         {
-            "name": "quertus-class-features",
-            "label": "Quertus Class Features",
+            "name": "quartus-class-features",
+            "label": "Quartus Class Features",
             "path": "./packs/class-features.db",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
         },
         {
-            "name": "quertus-race-features",
-            "label": "Quertus Race Features",
+            "name": "quartus-race-features",
+            "label": "Quartus Race Features",
             "path": "./packs/race-features.db",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
         },
         {
-            "name": "quertus-spells",
-            "label": "Quertus Spells",
+            "name": "quartus-spells",
+            "label": "Quartus Spells",
             "path": "./packs/spells.db",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
         },
         {
-            "name": "quertus-scenes",
-            "label": "quertus Scenes",
+            "name": "quartus-scenes",
+            "label": "quartus Scenes",
             "path": "./packs/scenes.db",
             "entity": "Scene",
             "type": "Scene"
         },
         {
-            "name": "quertus-journal-entries",
-            "label": "quertus Journal Entries",
+            "name": "quartus-journal-entries",
+            "label": "quartus Journal Entries",
             "path": "./packs/journal-entries.db",
             "entity": "JournalEntry",
             "type": "JournalEntry"
         },
         {
-            "name": "quertus-macros",
-            "label": "quertus Macros",
+            "name": "quartus-macros",
+            "label": "quartus Macros",
             "path": "./packs/macros.db",
             "entity": "Macro",
             "type": "Macro"
         },
         {
-            "name": "quertus-roll-tables",
-            "label": "quertus Roll Tables",
+            "name": "quartus-roll-tables",
+            "label": "quartus Roll Tables",
             "path": "./packs/roll-tables.db",
             "entity": "RollTable",
             "type": "RollTable"
@@ -103,6 +103,6 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/bentomhall/quartus-content-foundry/master/module.json",
-    "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v1.0.3.zip",
+    "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v1.0.4.zip",
     "url": "https://github.com/bentomhall/quartus-content-foundry/"
   }
