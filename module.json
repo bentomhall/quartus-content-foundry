@@ -16,13 +16,15 @@
         "verified": "11"
     },
     "relationships": {
-        "system": "dnd5e"
+        "systems": [{
+            "id": "dnd5e"
+        }]
     },
     "packs": [
         {
             "name": "quartus-creatures",
             "label": "quartus Creatures",
-            "path": "./packs/creatures.db",
+            "path": "./packs/creatures",
             "entity": "Actor",
             "type": "Actor",
             "system": "dnd5e"
@@ -30,7 +32,7 @@
         {
             "name": "quartus-items",
             "label": "quartus Items",
-            "path": "./packs/items.db",
+            "path": "./packs/items",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
@@ -38,7 +40,7 @@
         {
             "name": "quartus-class-features",
             "label": "Quartus Class Features",
-            "path": "./packs/class-features.db",
+            "path": "./packs/class-features",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
@@ -46,7 +48,7 @@
         {
             "name": "quartus-race-features",
             "label": "Quartus Race Features",
-            "path": "./packs/race-features.db",
+            "path": "./packs/race-features",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
@@ -54,7 +56,7 @@
         {
             "name": "quartus-spells",
             "label": "Quartus Spells",
-            "path": "./packs/spells.db",
+            "path": "./packs/spells",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
@@ -62,35 +64,35 @@
         {
             "name": "quartus-scenes",
             "label": "quartus Scenes",
-            "path": "./packs/scenes.db",
+            "path": "./packs/scenes",
             "entity": "Scene",
             "type": "Scene"
         },
         {
             "name": "quartus-journal-entries",
             "label": "quartus Journal Entries",
-            "path": "./packs/journal-entries.db",
+            "path": "./packs/journal-entries",
             "entity": "JournalEntry",
             "type": "JournalEntry"
         },
         {
             "name": "quartus-macros",
             "label": "quartus Macros",
-            "path": "./packs/macros.db",
+            "path": "./packs/macros",
             "entity": "Macro",
             "type": "Macro"
         },
         {
             "name": "quartus-roll-tables",
             "label": "quartus Roll Tables",
-            "path": "./packs/roll-tables.db",
+            "path": "./packs/roll-tables",
             "entity": "RollTable",
             "type": "RollTable"
         },
         {
-            "name": "quertus-playlists",
-            "label": "quertus Playlists",
-            "path": "./packs/playlists.db",
+            "name": "quartus-playlists",
+            "label": "quartus Playlists",
+            "path": "./packs/playlists",
             "entity": "Playlist",
             "type": "Playlist"
         },
