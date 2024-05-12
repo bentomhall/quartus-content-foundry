@@ -3,7 +3,7 @@
     "name": "quartus-content",
     "title": "Content for Dawn of Hope",
     "description": "A collection of my content.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "authors": [
         {
             "name": "Admiral Benbo",
@@ -99,12 +99,12 @@
         {
             "name": "quertus-adventures",
             "label": "quertus Adventures",
-            "path": "./packs/adventures.db",
+            "path": "./packs/adventures",
             "entity": "Adventure",
             "type": "Adventure"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/bentomhall/quartus-content-foundry/master/module.json",
-    "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v1.0.4.zip",
+    "download": "https://github.com/bentomhall/quartus-content-foundry/archive/refs/tags/v1.0.5.zip",
     "url": "https://github.com/bentomhall/quartus-content-foundry/"
   }
